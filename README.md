@@ -9,6 +9,9 @@
 - LinkedIn: <a href="https://www.linkedin.com/in/david-eklund02" target="_blank">David Eklund</a>
 
 ---
+### 📚 Education
+
+- Bachelor's degree in Computer Science @ Karlstad University
 
 ### 🧰 Languages and Tools
 
