@@ -6,7 +6,7 @@
 ### 📫 How to reach me:
 
 - 📧 Email: [david.eklund9@gmail.com](mailto:david.eklund9@gmail.com)
-- LinkedIn: [David Eklund](www.linkedin.com/in/david-eklund02)
+- LinkedIn: [David Eklund](https://www.linkedin.com/in/david-eklund02)
 
 ---
 
