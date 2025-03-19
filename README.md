@@ -3,7 +3,7 @@
 
 ---
 
-### 📫 How to reach me:
+### 📫 Socials:
 
 - 📧 Email: [david.eklund9@gmail.com](mailto:david.eklund9@gmail.com)
 - LinkedIn: <a href="https://www.linkedin.com/in/david-eklund02" target="_blank">David Eklund</a>
