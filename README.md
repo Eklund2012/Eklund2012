@@ -37,3 +37,23 @@
 
 ### 🌱 Currently Learning
 - Game Development in Python and Godot
+- Software testing
+- C#
+- 
+---
+
+### 🚀 Currently Working On
+
+- **[Chess Puzzle Game](https://github.com/Eklund2012/py-chess-puzzles)**: A Python-based chess puzzle game where players can solve various chess puzzles with multiple difficulty levels and themes.
+    - Features:
+        - Multiple game modes (Human vs AI, Puzzle Mode)
+        - Customizable themes for the board
+        - AI opponent with different difficulty levels
+        - Puzzle mode for solving chess problems
+    - Technologies Used: Python, Pygame, Chess Library, Stockfish AI
+
+[![Chess Puzzle Game](https://img.shields.io/github/stars/Eklund2012/py-chess-puzzles?style=social)](https://github.com/Eklund2012/py-chess-puzzles)
+[![GitHub Issues](https://img.shields.io/github/issues/Eklund2012/py-chess-puzzles.svg)](https://github.com/Eklund2012/py-chess-puzzles/issues)
+[![GitHub Forks](https://img.shields.io/github/forks/Eklund2012/py-chess-puzzles.svg)](https://github.com/Eklund2012/py-chess-puzzles/network)
+
+---
