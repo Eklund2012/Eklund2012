@@ -39,7 +39,6 @@
 - Game Development in Python and Godot
 - Software testing
 - C#
-- 
 ---
 
 ### 🚀 Currently Working On
