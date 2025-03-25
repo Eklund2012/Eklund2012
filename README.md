@@ -43,12 +43,10 @@
 
 ### 🚀 Current projects
 
-- **[Chess Puzzle Game](https://github.com/Eklund2012/py-chess-puzzles)**: A Python-based chess puzzle game where players can solve various chess puzzles with multiple difficulty levels and themes.
-    - Features:
-        - Multiple game modes (Human vs AI, Puzzle Mode)
-        - Customizable themes for the board
-        - AI opponent with different difficulty levels
-        - Puzzle mode for solving chess problems
-    - Technologies Used: Python, Pygame, Chess Library, Stockfish AI
+<p align="">
+  <a href="https://github.com/Eklund2012/py-chess-puzzles">
+    <img alt="py-chess-puzzles" src="https://github-readme-stats.vercel.app/api/pin/?username=Eklund2012&repo=py-chess-puzzles&theme=onedark"></img>
+  </a>
+</p>
 
 ---
