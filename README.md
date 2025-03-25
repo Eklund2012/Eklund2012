@@ -37,6 +37,7 @@
 
 ### 🌱 Currently Learning
 - Game Development in Python and Godot
+- React, Tailwind, Vite
 - Software testing
 - C#
 ---
