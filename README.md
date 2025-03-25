@@ -51,8 +51,4 @@
         - Puzzle mode for solving chess problems
     - Technologies Used: Python, Pygame, Chess Library, Stockfish AI
 
-[![Chess Puzzle Game](https://img.shields.io/github/stars/Eklund2012/py-chess-puzzles?style=social)](https://github.com/Eklund2012/py-chess-puzzles)
-[![GitHub Issues](https://img.shields.io/github/issues/Eklund2012/py-chess-puzzles.svg)](https://github.com/Eklund2012/py-chess-puzzles/issues)
-[![GitHub Forks](https://img.shields.io/github/forks/Eklund2012/py-chess-puzzles.svg)](https://github.com/Eklund2012/py-chess-puzzles/network)
-
 ---
