@@ -1,4 +1,4 @@
-# David Eklund
+# Hi 👋 David Eklund
 **`Computer science student @ Karlstad University`**
 
 ---
@@ -41,7 +41,7 @@
 - C#
 ---
 
-### 🚀 Currently Working On
+### 🚀 Current projects
 
 - **[Chess Puzzle Game](https://github.com/Eklund2012/py-chess-puzzles)**: A Python-based chess puzzle game where players can solve various chess puzzles with multiple difficulty levels and themes.
     - Features:
