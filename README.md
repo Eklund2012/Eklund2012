@@ -44,6 +44,10 @@
 
 ### 🚀 Current projects
 
-
+<p align="">
+  <a href="https://github.com/Eklund2012/py-chess-puzzles">
+    <img alt="py-chess-puzzles" src="https://github-readme-stats.vercel.app/api/pin/?username=Eklund2012&repo=py-chess-puzzles&theme=onedark"></img>
+  </a>
+</p>
 
 ---
