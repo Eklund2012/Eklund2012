@@ -1,4 +1,4 @@
-# Hi 👋 David Eklund
+David Eklund
 **`Computer science student @ Karlstad University`**
 
 ---
