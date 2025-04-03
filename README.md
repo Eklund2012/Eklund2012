@@ -14,28 +14,3 @@
 ### 📚 Education
 
 - Bachelor's degree in Computer Science @ Karlstad University
-
----
-
-### 🌱 Currently Learning
-- Game Development in Python and Godot
-- React, Tailwind, Vite
-- Software testing
-- C#
----
-
-### 🚀 Current projects
-
-<p align="">
-  <a href="https://github.com/Eklund2012/py-chess-puzzles">
-    <img alt="py-chess-puzzles" src="https://github-readme-stats.vercel.app/api/pin/?username=Eklund2012&repo=py-chess-puzzles&theme=onedark"></img>
-  </a>
-</p>
-
-<p align="">
-  <a href="https://github.com/Eklund2012/minimal-portfolio">
-    <img alt="py-chess-puzzles" src="https://github-readme-stats.vercel.app/api/pin/?username=Eklund2012&repo=minimal-portfolio&theme=onedark"></img>
-  </a>
-</p>
-
----
