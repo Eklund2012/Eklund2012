@@ -1,6 +1,6 @@
 # David Eklund
 
-**`B.Sc. in Computer Science | Karlstad University`**
+**`MSc Computer Science student @ Karlstad University | BSc in Computer Science`**
 
 ---
 
