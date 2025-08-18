@@ -15,4 +15,4 @@
 ### 📚 Education
 
 - Bachelor's degree in Computer Science @ Karlstad University
-- MScComputer Science student @ Karlstad University
+- MSc Computer Science student @ Karlstad University
