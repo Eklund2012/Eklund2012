@@ -6,7 +6,7 @@
 
 ### Socials:
 
-- Email: [david.eklund9@gmail.com](mailto:david.eklund9@proton.me)
+- Email: [david.eklund9@proton.me](mailto:david.eklund9@proton.me)
 - LinkedIn: <a href="https://www.linkedin.com/in/david-eklund02" target="_blank">David Eklund</a>
 
 ---
