@@ -10,6 +10,7 @@
 
 - Email: [david.eklund9@proton.me](mailto:david.eklund9@proton.me)
 - LinkedIn: <a href="https://www.linkedin.com/in/david-eklund02" target="_blank">David Eklund</a>
+- Website: [davideklund-portfolio](https://davideklund-portfolio.vercel.app/)
 
 ---
 
