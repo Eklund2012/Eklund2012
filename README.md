@@ -1,8 +1,8 @@
 # David Eklund
 
-**`BSc in Computer Science`**
-
 **`MSc Computer Science student @ Karlstad University`**
+
+**`BSc in Computer Science`**
 
 ---
 
@@ -15,5 +15,5 @@
 
 ### Education
 
-- Bachelor's degree in Computer Science @ Karlstad University
 - MSc Computer Science student @ Karlstad University
+- Bachelor's degree in Computer Science @ Karlstad University
